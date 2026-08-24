@@ -1,1 +1,1 @@
-# 36112_bugtest
+# 36112_bugtestTrigger test for PIPE-36112
